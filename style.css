@@ -1,0 +1,13 @@
+.carousel-caption h5{
+    font-weight: 400;
+}
+.carousel-caption{
+    margin-bottom: 200px;
+}
+.footer-botom{
+    padding: 5px 0;
+}
+.footer-botom p{
+   position: relative;
+   top: 15px;
+}
